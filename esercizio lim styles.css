@@ -1,0 +1,63 @@
+body{
+  background-image: url(/Users/ildestramandinoli/Downloads/Unknown/background.jpg);
+  background-size: 1500px;
+
+}
+
+.logo-text{
+  text-align: center;
+  padding:100px;
+}
+
+.logo{
+  width:200px;
+}
+
+.text{
+  color:green;
+}
+
+.button-text{
+  text-align: center;
+
+}
+
+.image{
+  background-size: 500px;
+}
+
+main{
+  text-align:justify;
+
+}
+
+.row{
+  background-color: lightgreen;
+  padding:20px;
+}
+
+.text3{
+  color:white;
+}
+
+.tixt{
+  color:white
+}
+
+.carica{
+  background-color: lightgreen;
+  border-color: lightgreen;
+}
+
+.button{
+  background-color: orange;
+
+}
+
+.button2{
+  background-color: lightgreen;
+}
+
+.button3{
+  background-color: red;
+}
